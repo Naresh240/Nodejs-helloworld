@@ -8,3 +8,9 @@
     sudo yum install -y nodejs
 # Build Maven Artifact:
     npm install
+# Run Nodejs application using below command:
+    node server.js
+# Check Nodejs Application in UI:
+  http://<ip-address>:8080/
+    
+![image](https://user-images.githubusercontent.com/58024415/103007193-fda7c000-4558-11eb-9150-8c91d41fe948.png)
