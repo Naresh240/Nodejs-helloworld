@@ -6,7 +6,7 @@
     sudo yum install -y gcc-c++ make
     curl -sL https://rpm.nodesource.com/setup_13.x | sudo -E bash -
     sudo yum install -y nodejs
-# Build Maven Artifact:
+# Build Nodejs:
     npm install
 # Run Nodejs application using below command:
     node server.js
